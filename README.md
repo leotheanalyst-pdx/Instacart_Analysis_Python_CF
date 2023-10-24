@@ -1,6 +1,8 @@
 # **Instacart_Analysis_Python_CF**
 Data analytics project for Career Foundry. Complete analysis for Instacart, an online grocery store app, in order to increase sales. 
 
+![Instacart company logo with a carrot and the text instacart.](https://th.bing.com/th/id/R.cb83f4a763b895c11a6ac19ac0ac393f?rik=%2b%2fYajHpdRDhYMw&riu=http%3a%2f%2fwww.finsmes.com%2fwp-content%2fuploads%2f2020%2f06%2fInstacart_Logo-1536x378.jpg&ehk=WlmDywLf0IxUHqDf0xzV%2fm0TyAWpCkPMhDBcU7aCcHY%3d&risl=&pid=ImgRaw&r=0)
+
 ## **Objective**
 Instacart requested an initial and exploratory analysis based on customer purchasing behaviors. The purpose of the analysis is to inform a marketting strategy to target certain customer profiles with appropropriate products.
 
@@ -11,8 +13,9 @@ The Instacart data included data sets on orders, orders_products_prior, products
 -  **Instacart Online Grocery Shopping Dataset 2017** [here](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
 
 ## **Tools**
-### Language & Libraries: Python, Pandas
-### Software: Jupyter Notebook, Anoconda, Excel
+### Language: Python
+### Libraries: pandas, matplotlib.pyplot, seaborn
+### Software: Jupyter Notebook, Anaconda, Excel
 
 ## **Project Deliverables**
 *Note: Career Foundry project request was to create a summary report in excel form. In practice this would be in the form of a powerpoint and/or Tableau or PowerBI dashboard. 
@@ -28,6 +31,6 @@ The analysis was stored in a file containing the following folders.
 
 ## **Skills Demonstrated**
 - **Python coding**: consistency checks, transforming data, groupby() function, aggregations, creating new variables, exclusion flags, subsetting, data frame merges, merge flags, user-defined functions, loc function, for loops, crosstabs, random sampling, visualization
-- **Visualizations**: Utilized Matplotlib, seaborn, and scipy to create bar plots, histograms, and scatterplots in python
+- **Visualizations**: Utilized matplotlib.pyplot, seaborn, and scipy to create bar plots, histograms, and scatterplots in python
 - **Analytical Process**: Data cleaning within exploratory data analysis (EDA)- data frame shape, data types, outliers, duplicates, missing values, consistency checks, preparation for merging data frames 
 - **Business Skills**: demographic profiling, data security (PII specific), data ethics, marketting segmentation, summary reports, translating complex data into marketting and sales insights 
