@@ -32,5 +32,5 @@ The analysis was stored in a file containing the following folders.
 ## **Skills Demonstrated**
 - **Python coding**: consistency checks, transforming data, groupby() function, aggregations, creating new variables, exclusion flags, subsetting, data frame merges, merge flags, user-defined functions, loc function, for loops, crosstabs, random sampling, visualization
 - **Visualizations**: Utilized matplotlib.pyplot, seaborn, and scipy to create bar plots, histograms, and scatterplots in python
-- **Analytical Process**: Data cleaning within exploratory data analysis (EDA)- data frame shape, data types, outliers, duplicates, missing values, consistency checks, preparation for merging data frames 
+- **Analytical Process**: Data cleaning within exploratory data analysis (EDA)- data frame shape, data types, outliers, duplicates, missing values consistency checks, preparation for merging data frames; population flows, Excel reporting
 - **Business Skills**: demographic profiling, data security (PII specific), data ethics, marketting segmentation, summary reports, translating complex data into marketting and sales insights 
