@@ -14,7 +14,7 @@ The Instacart data included data sets on orders, orders_products_prior, products
 
 ## **Tools**
 ### Language: Python
-### Libraries: pandas, matplotlib.pyplot, seaborn
+### Libraries: Pandas, Matplotlib.pyplot, Seaborn, Scipy
 ### Software: Jupyter Notebook, Anaconda, Excel
 
 ## **Project Deliverables**
@@ -31,6 +31,10 @@ The analysis was stored in a file containing the following folders.
 
 ## **Skills Demonstrated**
 - **Python coding**: consistency checks, transforming data, groupby() function, aggregations, creating new variables, exclusion flags, subsetting, data frame merges, merge flags, user-defined functions, loc function, for loops, crosstabs, random sampling, visualization
-- **Visualizations**: Utilized matplotlib.pyplot, seaborn, and scipy to create bar plots, histograms, and scatterplots in python
-- **Analytical Process**: Data cleaning within exploratory data analysis (EDA)- data frame shape, data types, outliers, duplicates, missing values consistency checks, preparation for merging data frames; population flows, Excel reporting
-- **Business Skills**: demographic profiling, data security (PII specific), data ethics, marketting segmentation, summary reports, translating complex data into marketting and sales insights 
+- **Visualizations**: Utilized Matplotlib.pyplot, seaborn, and scipy to create bar plots, histograms, and scatterplots in python
+- **Analytical Process**: Population flow, data cleaning within exploratory data analysis (EDA)- data frame shape, data types, outliers, duplicates, missing values consistency checks, preparation for merging data frames; subsetting data, Excel reporting, project organization
+- **Business Skills**: demographic profiling, data security (PII specific), data ethics, marketing segmentation, summary reports, translating complex data into marketting and sales insights
+
+## **Notes on Data Limitations**
+While “married” adults make up the highest customer base, it is important to note that family status data does not represent an accurate picture of customer demographics. The options for family status did not include: people living with roommates, alternative family structures, or partners who are unmarried living together. This also means that the sample is more representative of straight nuclear family structures compared to queer families and is not equitable. It is also not possible to source full-accurate relationship or living status data. For these reasons, focusing on known attributes, such as age, is more accurate.
+
